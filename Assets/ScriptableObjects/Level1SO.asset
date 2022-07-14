@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7c82d0510b7f40d3aaced76c03388db, type: 3}
+  m_Name: Level1SO
+  m_EditorClassIdentifier: 
+  levelName: Garden
+  levelUnlockImage: {fileID: 21300000, guid: 1ac2b1c860cb24e39b539a252e0a405b, type: 3}
+  levelLockImage: {fileID: 21300000, guid: 5015149e9084649c084059e04281c802, type: 3}
+  isLevelUnlock: 1
+  ToolLists:
+  - {fileID: 6222800416422302951, guid: 19bfeb7ad87464b029fb4acea638e870, type: 3}
+  - {fileID: 303017512541267233, guid: 4cdc45631522848bebd76f4cd1cc12e9, type: 3}
+  - {fileID: 5366918874892255975, guid: 691d10a1215a144189fa6abdef07def3, type: 3}
+  - {fileID: 1486852492923143621, guid: 5272d4600456d444f9d26dc08ac45c02, type: 3}
+  - {fileID: 6629204235952151605, guid: 549ba6b4cbefe4687aaaf546bb8f6969, type: 3}
+  - {fileID: 5975766826604757147, guid: 71e3b942ca3bc44fb90f04a4b13263e9, type: 3}
+  - {fileID: 5518081528370872528, guid: 315ae9e620a7146188d3256d66e5950a, type: 3}
+  - {fileID: 4767932251919265612, guid: 5758f1cac81e4471cb735c13db13a01c, type: 3}
+  - {fileID: 1465209118567735311, guid: d87418adc829d46069ef9e8097c211d6, type: 3}

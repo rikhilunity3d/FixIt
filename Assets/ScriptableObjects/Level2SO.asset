@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7c82d0510b7f40d3aaced76c03388db, type: 3}
+  m_Name: Level2SO
+  m_EditorClassIdentifier: 
+  levelName: Bathroom
+  levelUnlockImage: {fileID: 21300000, guid: b1bc7c920a7624c4789add55ec43e018, type: 3}
+  levelLockImage: {fileID: 21300000, guid: 0c123d574bd154b64a09690fe300e7db, type: 3}
+  isLevelUnlock: 0
